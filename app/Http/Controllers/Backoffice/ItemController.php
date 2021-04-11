@@ -20,6 +20,8 @@ class ItemController extends Controller
         return view('backoffice.item-list', compact('items'));
     }
 
+
+
     /**
      * Show the form for creating a new resource.
      *
